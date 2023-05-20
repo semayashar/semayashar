@@ -21,6 +21,7 @@
 </ul>
 
 <div>
+  <br>
   <h3 align="center">💻 Languages and Tools</h3>
   <p align="center">
     <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
