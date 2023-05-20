@@ -8,7 +8,7 @@
   <a href="https://www.reddit.com/u/OverFroyo7043/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1"><img src="https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://twitter.com/SemaYasharova"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-<br>
+
 <h3>Hi, I'm Sema</h3>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
@@ -40,7 +40,9 @@
   </p>
 </div>
 
+<p align="center">
 <a href="https://github.com/AVS1508">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=semayashar&theme=buefy&show_icons=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semayashar&theme=buefy&layout=compact">
 </a>
+</p>
