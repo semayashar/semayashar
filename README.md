@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sema Yasharova</h1>
+<h1 align="center"><i>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sema Yasharova</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%D1%81%D0%B5%D0%BC%D0%B0-%D1%8F%D1%88%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-15690719b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,7 +9,7 @@
   <a href="https://twitter.com/SemaYasharova"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<h3>Hi, I'm Sema</h3>
+<h4><i>About me:</i></h4>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 <ul>
@@ -22,7 +22,7 @@
 
 <div>
   <br>
-  <h3 align="center">💻 Languages and Tools</h3>
+  <h3 align="center">💻 Languages and Tools</i></h3>
   <p align="center">
     <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
