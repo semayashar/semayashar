@@ -42,7 +42,6 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=semayashar&theme=buefy&show_icons=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semayashar&theme=buefy&layout=compact">
 </a>
