@@ -22,7 +22,7 @@
 
 <div>
   <br>
-  <h3 align="center">💻 Languages and Tools</i></h3>
+  <h3   align="center">💻 Languages and Tools</i></h3>
   <p align="center">
     <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
