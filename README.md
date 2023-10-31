@@ -14,7 +14,7 @@
 
 <ul>
   <li>👩🏻‍🦱 21 y.o. from Ruse, Bulgaria.</li>
-  <li>🎓 2nd year undergraduate studying Software Engineering at "Angel Kanchev" University of Ruse.</li>
+  <li>🎓 3rd year undergraduate studying Software Engineering at "Angel Kanchev" University of Ruse.</li>
   <li>💻 Taking online Java, C++, and C# courses.</li>
   <li>📚 I've been teaching myself how to code for 2 years!</li>
   <li>🌺 "Still learning..."</li>
