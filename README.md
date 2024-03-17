@@ -28,14 +28,10 @@
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   </p>
   <p align="center">
-    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png"                      alt="cplusplus" width="60" height="60">
-     <img style="margin: auto;" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"
-         alt="c#" width="54" height="58">
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png"alt="cplusplus" width="60" height="60">
     <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" 
          alt="java" width="100" height="60">
     <img style="margin: auto;" src="https://cdn.svgporn.com/logos/html-5.svg"              
