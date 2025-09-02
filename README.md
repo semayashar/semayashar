@@ -12,12 +12,12 @@
 <h4><i>About me:</i></h4>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<ul>
-  <li>👩🏻‍🦱 21 y.o. from Ruse, Bulgaria.</li>
-  <li>🎓 3rd year undergraduate studying Software Engineering at "Angel Kanchev" University of Ruse.</li>
-  <li>💻 Taking online Java, C++, and C# courses.</li>
-  <li>📚 I've been teaching myself how to code for 3 years!</li>
-  <li>🌺 "Still learning..."</li>
+<ul>  
+  <li>👩🏻‍🦱 23 y.o. from Ruse, Bulgaria.</li>  
+  <li>🎓 Graduated in Software Engineering from "Angel Kanchev" University of Ruse.</li>  
+  <li>💻 Completed online courses in Java, C++, and C#.</li>  
+  <li>📚 I've been coding for 3+ years, both self-taught and academically.</li>  
+  <li>🌺 "Always learning..."</li>  
 </ul>
 
 <div>
